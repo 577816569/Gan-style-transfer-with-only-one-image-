@@ -1,7 +1,6 @@
 # Some explorations on gan with style transfer
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
+This work is only a small attempt 
 
 # Files
 
@@ -142,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzIyMDY2XX0=
+eyJoaXN0b3J5IjpbOTI5NTM1NTMyLDE2NDcyMjA2Nl19
 -->

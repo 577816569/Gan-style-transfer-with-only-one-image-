@@ -6,7 +6,9 @@ This work is only a small attempt to explore the field of GAN(Generative Adversa
 
 
 ## About this work
-There have been already a lot of work explored the possibility to use GAN achieve style transfer. 
+There have been already a lot of work explored the possibility to use GAN achieve style transfer. For example:
+Cycle GAN : [[Paper]](https://arxiv.org/abs/1703.10593)
+
 
 ## Switch to another file
 
@@ -139,6 +141,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4MzY3MDYsLTE0NTQ1MjI3NSwxNj
-Q3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1ND
+UyMjc1LDE2NDcyMjA2Nl19
 -->

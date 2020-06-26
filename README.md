@@ -1,6 +1,6 @@
 # Some explorations on GAN with style transfer
 
-This work is only a small attempt to explore the field of GAN(Generative Adversarial Networks). The result of this work is really bad due to my lack of understanding in the field of deep learning and the terrible training environment(I trained the network on Colab)
+This work is only a small attempt to explore the field of GAN(Generative Adversarial Networks). The result of this work is really bad due to my lack of understanding in the field of deep learning and the terrible training environment(I trained the network on Colab). 
 
 # Files
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDI0Mzg4MiwxNjQ3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbMTcwNzcwNjcxNiwxNjQ3MjIwNjZdfQ==
 -->

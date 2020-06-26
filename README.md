@@ -16,7 +16,7 @@ In this work, I use some simple tricks to achieve transfer only one image's styl
 
 ## Method
 
-To solve the problem of lack of datasets, 
+To solve the problem of lack of datasets, I 
 
 ## Rename a file
 
@@ -145,8 +145,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA2MzUxOTEsLTQxNDQzOTIyMiw4OT
-U2OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIy
-NzgzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LD
-E2NDcyMjA2Nl19
+eyJoaXN0b3J5IjpbMTgyMzI4MjM2OCwtMTYzMDYzNTE5MSwtND
+E0NDM5MjIyLDg5NTY5OTQ2MiwtMTExOTA0MTcyMSwtMTcxOTMz
+NDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEwLC0xNDg1ODM2NzA2LC
+0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
 -->

@@ -6,7 +6,7 @@ This work is only a small attempt to explore the field of GAN(Generative Adversa
 
 
 ## About this work
-There are already a lot of work explore 
+There have been already a lot of work explored the possibility 
 
 ## Switch to another file
 
@@ -139,6 +139,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MDczMjksLTE0NTQ1MjI3NSwxNjQ3Mj
-IwNjZdfQ==
+eyJoaXN0b3J5IjpbODgzMTI4Mzk3LC0xNDU0NTIyNzUsMTY0Nz
+IyMDY2XX0=
 -->

@@ -2,11 +2,10 @@
 
 This work is only a small attempt to explore the field of GAN(Generative Adversarial Networks). The result of this work is really bad due to my lack of understanding in the field of deep learning and the terrible training environment(I trained the network on Colab). So if anyone see this repo(probably no one) and find a lot of mistakes please ignore them.
 
-# Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-## Create files and folders
+
+## About this work
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -141,5 +140,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc3MDA4NSwxNjQ3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
 -->

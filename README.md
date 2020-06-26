@@ -7,9 +7,13 @@ This work is only a small attempt to explore the field of GAN(Generative Adversa
 
 ## About this work
 There have been already a lot of work explored the possibility to use GAN achieve style transfer. For example:
+
 Cycle GAN : [[Paper]](https://arxiv.org/abs/1703.10593)
+
 Cartoon GAN : [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+
 Gated GAN : [[Paper]](https://arxiv.org/abs/1904.02296)
+
 These GAN could generate very good results. However, to train a GAN, we need thousands of paired/unpaired image datas, and if we want to achieve transfer only one image's style like the original paper wrote by Gatys [[Paper]](https://ieeexplore.ieee.org/document/7780634), that could be a problem. Also, Gatys' method of style transfer is online method, so the efficiency is not as high as GAN base method.
 
 In this work, I use some simple tricks to achieve transfer only one image's style to another with GAN.

@@ -9,6 +9,7 @@ This work is only a small attempt to explore the field of GAN(Generative Adversa
 There have been already a lot of work explored the possibility to use GAN achieve style transfer. For example:
 Cycle GAN : [[Paper]](https://arxiv.org/abs/1703.10593)
 Cartoon GAN : [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+Gated GAN : [[Paper]](https://arxiv.org/abs/1904.02296)
 
 
 ## Switch to another file
@@ -142,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE5MzEwMzcsMzExNjcxMCwtMTQ4NT
+eyJoaXN0b3J5IjpbLTE0MDIyNzgzNTUsMzExNjcxMCwtMTQ4NT
 gzNjcwNiwtMTQ1NDUyMjc1LDE2NDcyMjA2Nl19
 -->

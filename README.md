@@ -12,7 +12,7 @@ Cartoon GAN : [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ch
 Gated GAN : [[Paper]](https://arxiv.org/abs/1904.02296)
 These GAN could generate very good results. However, to train a GAN, we need thousands of paired/unpaired image datas, and if we want to achieve transfer only one image's style like the original paper wrote by Gatys [[Paper]](https://ieeexplore.ieee.org/document/7780634), that could be a problem.
 
-In this work, I use some simply 
+In this work, I use some simple tricks to achieve 
 
 ## Switch to another file
 
@@ -145,7 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTE3MzUxOCw4OTU2OTk0NjIsLTExMT
-kwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIyNzgzNTUsMzExNjcx
-MCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2NDcyMjA2Nl19
+eyJoaXN0b3J5IjpbMjk5MzgyNjgyLDg5NTY5OTQ2MiwtMTExOT
+A0MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEw
+LC0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
 -->

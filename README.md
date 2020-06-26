@@ -10,7 +10,7 @@ There have been already a lot of work explored the possibility to use GAN achiev
 Cycle GAN : [[Paper]](https://arxiv.org/abs/1703.10593)
 Cartoon GAN : [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 Gated GAN : [[Paper]](https://arxiv.org/abs/1904.02296)
-These GAN could achieve e
+These GAN could generate very good results
 
 ## Switch to another file
 
@@ -143,7 +143,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkzMzQ2NDksLTE0MDIyNzgzNTUsMz
-ExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2NDcyMjA2
-Nl19
+eyJoaXN0b3J5IjpbLTExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLT
+E0MDIyNzgzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUy
+Mjc1LDE2NDcyMjA2Nl19
 -->

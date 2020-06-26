@@ -10,7 +10,7 @@ There have been already a lot of work explored the possibility to use GAN achiev
 Cycle GAN : [[Paper]](https://arxiv.org/abs/1703.10593)
 Cartoon GAN : [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 Gated GAN : [[Paper]](https://arxiv.org/abs/1904.02296)
-These GAN could generate very good results. However, to train a GAN, we need thousands of paired/unpaired image datas, and if we want to 
+These GAN could generate very good results. However, to train a GAN, we need thousands of paired/unpaired image datas, and if we want to achieve transfer only one image's style like the 
 
 ## Switch to another file
 
@@ -143,7 +143,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjA1NTkwNiwtMTExOTA0MTcyMSwtMT
-cxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEwLC0xNDg1ODM2
-NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
+eyJoaXN0b3J5IjpbLTExNzA5OTgxNjQsLTExMTkwNDE3MjEsLT
+E3MTkzMzQ2NDksLTE0MDIyNzgzNTUsMzExNjcxMCwtMTQ4NTgz
+NjcwNiwtMTQ1NDUyMjc1LDE2NDcyMjA2Nl19
 -->

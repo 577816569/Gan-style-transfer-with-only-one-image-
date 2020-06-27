@@ -40,6 +40,9 @@ Also, the code of these work is base on the this repository: [https://github.com
 
 * First, transfer the style image
 ` python transfer.py `
+* Train the model
+` python train.py`
+
 ## Export a file
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
@@ -159,10 +162,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0MDIyMzAsLTEzMTg4Njk5MDcsODEwNz
-AzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0ODIsMTIzOTE2NDc5
-NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMTgyMzI4MjM2OCwtMT
-YzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5OTQ2MiwtMTExOTA0
-MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEwLC
-0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
+eyJoaXN0b3J5IjpbMTI0ODk1MTg0NSwtMTMxODg2OTkwNyw4MT
+A3MDMyNzEsLTM4NDQwNzA2NCwtMTY4OTgxNTQ4MiwxMjM5MTY0
+Nzk1LDE5ODE3NTgyNjMsMjA4Njk2NzUzMywxODIzMjgyMzY4LC
+0xNjMwNjM1MTkxLC00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5
+MDQxNzIxLC0xNzE5MzM0NjQ5LC0xNDAyMjc4MzU1LDMxMTY3MT
+AsLTE0ODU4MzY3MDYsLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
+
 -->

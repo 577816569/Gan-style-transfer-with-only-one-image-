@@ -24,7 +24,7 @@ To solve the problem of lack of datasets, I cut the orignial style image into 25
 
 <img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg" width = "300" height = "200" alt="Original style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "200" height = "200" alt="Transfered style image" align=center />
 
-&emsp；&emsp；&emsp；Original style image                      Transfered style image
+&emsp;&emsp;&emsp;Original style image                      Transfered style image
  
 Also, the code of these work is base on the 
 
@@ -157,10 +157,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjE0ODY3Nyw4MTA3MDMyNzEsLTM4ND
-QwNzA2NCwtMTY4OTgxNTQ4MiwxMjM5MTY0Nzk1LDE5ODE3NTgy
-NjMsMjA4Njk2NzUzMywxODIzMjgyMzY4LC0xNjMwNjM1MTkxLC
-00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5MDQxNzIxLC0xNzE5
-MzM0NjQ5LC0xNDAyMjc4MzU1LDMxMTY3MTAsLTE0ODU4MzY3MD
-YsLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbNjI2MTA2NTk3LDgxMDcwMzI3MSwtMzg0ND
+A3MDY0LC0xNjg5ODE1NDgyLDEyMzkxNjQ3OTUsMTk4MTc1ODI2
+MywyMDg2OTY3NTMzLDE4MjMyODIzNjgsLTE2MzA2MzUxOTEsLT
+QxNDQzOTIyMiw4OTU2OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkz
+MzQ2NDksLTE0MDIyNzgzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNi
+wtMTQ1NDUyMjc1LDE2NDcyMjA2Nl19
 -->

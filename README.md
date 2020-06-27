@@ -20,7 +20,7 @@ In this work, I use some simple tricks to achieve transfer only one image's styl
 
 ## Method
 
-To solve the problem of lack of datasets, I  c
+To solve the problem of lack of datasets, I cut the orignial style image into 
 
 ## Rename a file
 
@@ -149,8 +149,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjE0Mzk5NywxODIzMjgyMzY4LC0xNj
-MwNjM1MTkxLC00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5MDQx
-NzIxLC0xNzE5MzM0NjQ5LC0xNDAyMjc4MzU1LDMxMTY3MTAsLT
-E0ODU4MzY3MDYsLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbODA3OTYwOTYsMTgyMzI4MjM2OCwtMTYzMD
+YzNTE5MSwtNDE0NDM5MjIyLDg5NTY5OTQ2MiwtMTExOTA0MTcy
+MSwtMTcxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEwLC0xND
+g1ODM2NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
 -->

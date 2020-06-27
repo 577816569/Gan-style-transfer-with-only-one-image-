@@ -38,8 +38,8 @@ Also, the code of these work is base on the this repository: [https://github.com
 
 ## Usage
 
-* First, transfer the sty 
-
+* First, transfer the style image
+` python transfer.py `
 ## Export a file
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
@@ -159,11 +159,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMwNjk2MDYsLTEzMTg4Njk5MDcsOD
-EwNzAzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0ODIsMTIzOTE2
-NDc5NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMTgyMzI4MjM2OC
-wtMTYzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5OTQ2MiwtMTEx
-OTA0MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2Nz
-EwLC0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
-
+eyJoaXN0b3J5IjpbODE0MDIyMzAsLTEzMTg4Njk5MDcsODEwNz
+AzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0ODIsMTIzOTE2NDc5
+NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMTgyMzI4MjM2OCwtMT
+YzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5OTQ2MiwtMTExOTA0
+MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEwLC
+0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
 -->

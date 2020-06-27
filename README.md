@@ -45,7 +45,7 @@ Also, the code of these work is base on the this repository: [https://github.com
 Noted that train 3 epochs could get a good result.
 ## Result
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Here are some result, and as you can see the result is not very good, because I haven't done any 
 
 
 # Synchronization
@@ -162,11 +162,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjg3OTkzNywtMTMxODg2OTkwNyw4MT
-A3MDMyNzEsLTM4NDQwNzA2NCwtMTY4OTgxNTQ4MiwxMjM5MTY0
-Nzk1LDE5ODE3NTgyNjMsMjA4Njk2NzUzMywxODIzMjgyMzY4LC
-0xNjMwNjM1MTkxLC00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5
-MDQxNzIxLC0xNzE5MzM0NjQ5LC0xNDAyMjc4MzU1LDMxMTY3MT
-AsLTE0ODU4MzY3MDYsLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
-
+eyJoaXN0b3J5IjpbMTQ3MDU3NTA3NSwxMjIyODc5OTM3LC0xMz
+E4ODY5OTA3LDgxMDcwMzI3MSwtMzg0NDA3MDY0LC0xNjg5ODE1
+NDgyLDEyMzkxNjQ3OTUsMTk4MTc1ODI2MywyMDg2OTY3NTMzLD
+E4MjMyODIzNjgsLTE2MzA2MzUxOTEsLTQxNDQzOTIyMiw4OTU2
+OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIyNz
+gzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2
+NDcyMjA2Nl19
 -->

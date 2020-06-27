@@ -42,8 +42,8 @@ Also, the code of these work is base on the this repository: [https://github.com
 ` python transfer.py `
 * Train the model
 ` python train.py`
-
-## Export a file
+Noted that train 3 epochs could get a good result.
+## Result
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
@@ -162,7 +162,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODk1MTg0NSwtMTMxODg2OTkwNyw4MT
+eyJoaXN0b3J5IjpbMTIyMjg3OTkzNywtMTMxODg2OTkwNyw4MT
 A3MDMyNzEsLTM4NDQwNzA2NCwtMTY4OTgxNTQ4MiwxMjM5MTY0
 Nzk1LDE5ODE3NTgyNjMsMjA4Njk2NzUzMywxODIzMjgyMzY4LC
 0xNjMwNjM1MTkxLC00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5

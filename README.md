@@ -45,7 +45,7 @@ Also, the code of these work is base on the this repository: [https://github.com
 Noted that train 3 epochs could get a good result.
 ## Result
 
-Here are some result, and as you can see the result is not very good, because I haven't done any 
+Here are some result, and as you can see the result is not very good, because I haven't done any modification to some parameters in the code, also I am a begin
 
 
 # Synchronization
@@ -162,11 +162,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDU3NTA3NSwxMjIyODc5OTM3LC0xMz
-E4ODY5OTA3LDgxMDcwMzI3MSwtMzg0NDA3MDY0LC0xNjg5ODE1
-NDgyLDEyMzkxNjQ3OTUsMTk4MTc1ODI2MywyMDg2OTY3NTMzLD
-E4MjMyODIzNjgsLTE2MzA2MzUxOTEsLTQxNDQzOTIyMiw4OTU2
-OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIyNz
-gzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2
-NDcyMjA2Nl19
+eyJoaXN0b3J5IjpbOTI0ODM1NzQxLDEyMjI4Nzk5MzcsLTEzMT
+g4Njk5MDcsODEwNzAzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0
+ODIsMTIzOTE2NDc5NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMT
+gyMzI4MjM2OCwtMTYzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5
+OTQ2MiwtMTExOTA0MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3OD
+M1NSwzMTE2NzEwLC0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0
+NzIyMDY2XX0=
 -->

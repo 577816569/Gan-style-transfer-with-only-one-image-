@@ -21,10 +21,11 @@ In this work, I use some simple tricks to achieve transfer only one image's styl
 ## Method
 
 To solve the problem of lack of datasets, I cut the orignial style image into 256 square images randomly and the size of each image is 16 * 16. By conbining these small images, we can get a 256 * 256 style image. We can use this method to generate as many style images as we want. 
-![Original style image](https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg)
-![Transfered style image](https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg)
- <img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg" width = "300" height = "200" alt="" align=center />
-```
+
+ <img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg" width = "300" height = "200" alt="Original style image" align=center />
+  <img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "300" height = "200" alt="Original style image" align=center />
+ 
+
 
 
 
@@ -155,10 +156,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTQyNjA0OCwtMTY4OTgxNTQ4MiwxMj
-M5MTY0Nzk1LDE5ODE3NTgyNjMsMjA4Njk2NzUzMywxODIzMjgy
-MzY4LC0xNjMwNjM1MTkxLC00MTQ0MzkyMjIsODk1Njk5NDYyLC
-0xMTE5MDQxNzIxLC0xNzE5MzM0NjQ5LC0xNDAyMjc4MzU1LDMx
-MTY3MTAsLTE0ODU4MzY3MDYsLTE0NTQ1MjI3NSwxNjQ3MjIwNj
-ZdfQ==
+eyJoaXN0b3J5IjpbMTY4Mzk1MzMzLC0xNjg5ODE1NDgyLDEyMz
+kxNjQ3OTUsMTk4MTc1ODI2MywyMDg2OTY3NTMzLDE4MjMyODIz
+NjgsLTE2MzA2MzUxOTEsLTQxNDQzOTIyMiw4OTU2OTk0NjIsLT
+ExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIyNzgzNTUsMzEx
+NjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2NDcyMjA2Nl
+19
 -->

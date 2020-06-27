@@ -22,6 +22,8 @@ In this work, I use some simple tricks to achieve transfer only one image's styl
 
 To solve the problem of lack of datasets, I cut the orignial style image into 256 square images randomly and the size of each image is 16 * 16. By conbining these small images, we can get a 256 * 256 style image. We can use this method to generate as many style images as we want. 
 
+
+
 ## Rename a file
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
@@ -149,7 +151,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTE5MDM1OSwxOTgxNzU4MjYzLDIwOD
+eyJoaXN0b3J5IjpbMTIzOTE2NDc5NSwxOTgxNzU4MjYzLDIwOD
 Y5Njc1MzMsMTgyMzI4MjM2OCwtMTYzMDYzNTE5MSwtNDE0NDM5
 MjIyLDg5NTY5OTQ2MiwtMTExOTA0MTcyMSwtMTcxOTMzNDY0OS
 wtMTQwMjI3ODM1NSwzMTE2NzEwLC0xNDg1ODM2NzA2LC0xNDU0

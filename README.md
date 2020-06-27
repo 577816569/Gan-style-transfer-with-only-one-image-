@@ -45,8 +45,9 @@ Also, the code of these work is base on the this repository: [https://github.com
 Noted that train 3 epochs could get a good result.
 ## Result
 
-Here are some result, and as you can see the result is not very good, because I haven't done any modification to some parameters in the code, also I am a begin
+Here are some result, and as you can see the result is not very good, because I haven't done any modification to some parameters in the code, also I am a beginner of deep learning field, so there might be a lot of mistakes.
 
+<img src="[https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/1.png](https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/1.png)" width = "200" height = "200" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "200" height = "200" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "200" height = "200" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "200" height = "200" alt="Transfered style image" align=center />
 
 # Synchronization
 
@@ -162,11 +163,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0ODM1NzQxLDEyMjI4Nzk5MzcsLTEzMT
-g4Njk5MDcsODEwNzAzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0
-ODIsMTIzOTE2NDc5NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMT
-gyMzI4MjM2OCwtMTYzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5
-OTQ2MiwtMTExOTA0MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3OD
-M1NSwzMTE2NzEwLC0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0
-NzIyMDY2XX0=
+eyJoaXN0b3J5IjpbMTgyNTAzODQ3NiwxMjIyODc5OTM3LC0xMz
+E4ODY5OTA3LDgxMDcwMzI3MSwtMzg0NDA3MDY0LC0xNjg5ODE1
+NDgyLDEyMzkxNjQ3OTUsMTk4MTc1ODI2MywyMDg2OTY3NTMzLD
+E4MjMyODIzNjgsLTE2MzA2MzUxOTEsLTQxNDQzOTIyMiw4OTU2
+OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIyNz
+gzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2
+NDcyMjA2Nl19
 -->

@@ -47,7 +47,7 @@ Noted that train 3 epochs could get a good result.
 
 Here are some result, and as you can see the result is not very good, because I haven't done any modification to some parameters in the code, also I am a beginner of deep learning field, so there might be a lot of mistakes.
 
-<img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/1.png width = "100" height = "100" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/3.png width = "100" height = "100" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/4.png width = "100" height = "100" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/5.png width = "100" height = "100" alt="Transfered style image" align=center />
+<img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/1.png" width = "100" height = "100" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/3.png" width = "100" height = "100" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/4.png" width = "100" height = "100" alt="Transfered style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/result/5.png" width = "100" height = "100" alt="Transfered style image" align=center />
 
 # Synchronization
 
@@ -163,11 +163,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NTkxOTcyLDEyMjI4Nzk5MzcsLTEzMT
-g4Njk5MDcsODEwNzAzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0
-ODIsMTIzOTE2NDc5NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMT
-gyMzI4MjM2OCwtMTYzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5
-OTQ2MiwtMTExOTA0MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3OD
-M1NSwzMTE2NzEwLC0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0
-NzIyMDY2XX0=
+eyJoaXN0b3J5IjpbLTE4NDU4Mjk2ODQsMTIyMjg3OTkzNywtMT
+MxODg2OTkwNyw4MTA3MDMyNzEsLTM4NDQwNzA2NCwtMTY4OTgx
+NTQ4MiwxMjM5MTY0Nzk1LDE5ODE3NTgyNjMsMjA4Njk2NzUzMy
+wxODIzMjgyMzY4LC0xNjMwNjM1MTkxLC00MTQ0MzkyMjIsODk1
+Njk5NDYyLC0xMTE5MDQxNzIxLC0xNzE5MzM0NjQ5LC0xNDAyMj
+c4MzU1LDMxMTY3MTAsLTE0ODU4MzY3MDYsLTE0NTQ1MjI3NSwx
+NjQ3MjIwNjZdfQ==
 -->

@@ -31,12 +31,14 @@ Also, the code of these work is base on the this repository: [https://github.com
 
 
 ##  Prerequisites
-* Python
+* Python 3
+* Ptyorch 0.41+
+* NVIDIA GPU + CUDA CuDNN
 
 
-## Delete a file
+## Usage
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+* First, transfer the sty 
 
 ## Export a file
 
@@ -157,11 +159,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzQyNTQ3NSwtMTMxODg2OTkwNyw4MT
-A3MDMyNzEsLTM4NDQwNzA2NCwtMTY4OTgxNTQ4MiwxMjM5MTY0
-Nzk1LDE5ODE3NTgyNjMsMjA4Njk2NzUzMywxODIzMjgyMzY4LC
-0xNjMwNjM1MTkxLC00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5
-MDQxNzIxLC0xNzE5MzM0NjQ5LC0xNDAyMjc4MzU1LDMxMTY3MT
-AsLTE0ODU4MzY3MDYsLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbLTExMDMwNjk2MDYsLTEzMTg4Njk5MDcsOD
+EwNzAzMjcxLC0zODQ0MDcwNjQsLTE2ODk4MTU0ODIsMTIzOTE2
+NDc5NSwxOTgxNzU4MjYzLDIwODY5Njc1MzMsMTgyMzI4MjM2OC
+wtMTYzMDYzNTE5MSwtNDE0NDM5MjIyLDg5NTY5OTQ2MiwtMTEx
+OTA0MTcyMSwtMTcxOTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2Nz
+EwLC0xNDg1ODM2NzA2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
 
 -->

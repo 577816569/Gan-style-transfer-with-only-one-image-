@@ -26,13 +26,13 @@ To solve the problem of lack of datasets, I cut the orignial style image into 25
 
 &emsp;&emsp;&emsp;&emsp;Original style image &emsp;&emsp;&emsp;                     Transfered style image
  
-Also, the code of these work is base on the this 
+Also, the code of these work is base on the this repository: [https://github.com/eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 
 
 
 ## Usage
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+
 
 ## Delete a file
 
@@ -157,10 +157,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzE0MzQyOSw4MTA3MDMyNzEsLTM4ND
-QwNzA2NCwtMTY4OTgxNTQ4MiwxMjM5MTY0Nzk1LDE5ODE3NTgy
-NjMsMjA4Njk2NzUzMywxODIzMjgyMzY4LC0xNjMwNjM1MTkxLC
-00MTQ0MzkyMjIsODk1Njk5NDYyLC0xMTE5MDQxNzIxLC0xNzE5
-MzM0NjQ5LC0xNDAyMjc4MzU1LDMxMTY3MTAsLTE0ODU4MzY3MD
-YsLTE0NTQ1MjI3NSwxNjQ3MjIwNjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTg4Njk5MDcsODEwNzAzMjcxLC0zOD
+Q0MDcwNjQsLTE2ODk4MTU0ODIsMTIzOTE2NDc5NSwxOTgxNzU4
+MjYzLDIwODY5Njc1MzMsMTgyMzI4MjM2OCwtMTYzMDYzNTE5MS
+wtNDE0NDM5MjIyLDg5NTY5OTQ2MiwtMTExOTA0MTcyMSwtMTcx
+OTMzNDY0OSwtMTQwMjI3ODM1NSwzMTE2NzEwLC0xNDg1ODM2Nz
+A2LC0xNDU0NTIyNzUsMTY0NzIyMDY2XX0=
 -->

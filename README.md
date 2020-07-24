@@ -22,9 +22,9 @@ In this work, I use some simple tricks to achieve transfer only one image's styl
 
 To solve the problem of lack of datasets, I cut the orignial style image into 256 square images randomly and the size of each image is 16 * 16. By conbining these small images, we can get a 256 * 256 style image. We can use this method to generate as many style images as we want. 
 
-<img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/mosaic.jpg" width = "300" height = "200" alt="Original style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "200" height = "200" alt="Transfered style image" align=center />
+<img src="https://github.com/577816569/face-pix2pixHD/blob/master/images/000085.jpg" width = "300" height = "200" alt="Original style image" align=center /><img src="https://github.com/577816569/Some-explorations-on-gan-with-styletransfer/blob/master/style/0.jpg" width = "200" height = "200" alt="Transfered style image" align=center />
 
-&emsp;&emsp;&emsp;&emsp;Original style image &emsp;&emsp;&emsp;                     Transfered style image
+&emsp;&emsp;&emsp;&emsp;Original  image &emsp;&emsp;&emsp;                     Transfered style image
  
 Also, the code of these work is base on the this repository: [https://github.com/eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 
@@ -51,11 +51,11 @@ Here are some result, and as you can see the result is not very good, because I 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mjk2NDQyMywxMjIyODc5OTM3LC0xMz
-E4ODY5OTA3LDgxMDcwMzI3MSwtMzg0NDA3MDY0LC0xNjg5ODE1
-NDgyLDEyMzkxNjQ3OTUsMTk4MTc1ODI2MywyMDg2OTY3NTMzLD
-E4MjMyODIzNjgsLTE2MzA2MzUxOTEsLTQxNDQzOTIyMiw4OTU2
-OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkzMzQ2NDksLTE0MDIyNz
-gzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwtMTQ1NDUyMjc1LDE2
-NDcyMjA2Nl19
+eyJoaXN0b3J5IjpbLTEyNDY5MTA3OTQsLTM0Mjk2NDQyMywxMj
+IyODc5OTM3LC0xMzE4ODY5OTA3LDgxMDcwMzI3MSwtMzg0NDA3
+MDY0LC0xNjg5ODE1NDgyLDEyMzkxNjQ3OTUsMTk4MTc1ODI2My
+wyMDg2OTY3NTMzLDE4MjMyODIzNjgsLTE2MzA2MzUxOTEsLTQx
+NDQzOTIyMiw4OTU2OTk0NjIsLTExMTkwNDE3MjEsLTE3MTkzMz
+Q2NDksLTE0MDIyNzgzNTUsMzExNjcxMCwtMTQ4NTgzNjcwNiwt
+MTQ1NDUyMjc1XX0=
 -->
